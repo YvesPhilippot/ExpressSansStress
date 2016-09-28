@@ -2,7 +2,7 @@
 // @name         L'express - Adblockless
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  Afficher les news abonnés Le Monde lorsqu'on est en lecture Zen
+// @description  Afficher l'express sans le bloc "Désactiver AdBlock"
 // @author       El_Rhonin
 // @match        http://www.lexpress.fr/*
 // @grant        GM_addStyle
